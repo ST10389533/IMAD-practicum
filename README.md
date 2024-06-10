@@ -332,3 +332,30 @@ McAnthony Anowi
 209          tools:layout_editor_absoluteY="634dp" />
 210  
 211  </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+the purpose of this aplication is to serve as a convience when people want to check weather forecasts in their country/cities. the weather app that can calculate the weekly average temperature is an extraodinarytool for people to plan their daily activities and make informed decisions  the main purpose of this app is to provide users with accurate and up to date weather information,including the average temperature for a set week.
+
+knowing the weekly average assits in everyday lives such as outdoor events, trips, or sports games. So if a user is able to calculate the average temperature users are able to repare their week accordily etc: dreesing up
+
+Extreme temperatures can be dangerius to human health a weather app with daily and weekly average temperatures helps users to not over dress themselves in the heat and underdress themselves in the chilly weather.
+
+tourists rely on weather apps to plan their visits and vacation. Such an app can be useful to inform users what to pack in their luggage and make informed decisions about their destination.
+
+this weather app can also help businesses optimise energy consumpution by knowing the temperature the can adjust their cooling and heating systems to reduce costs.
+
+farmers may also rely on the weather for harvesting and crop management bto avoid things such as over watering crops and understanding temperature trends
+
+in conclusion a weather app that can calculate the weekly average temperature is an essential tool for various aspects to life ranging from personal planning and health to argiculture and climate change reasearch.By providing accurate  and reliable weather forecasts such an app helps users make informed descions
+
+
+start
+
+user opens app
+user exits app or go to main screen
+
+main screen
+
+
+
